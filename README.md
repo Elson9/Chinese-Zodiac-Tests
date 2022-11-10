@@ -6,7 +6,7 @@ An automated testing solution validating the Chinese Zodiac code in C++.
 
 - [CMake](https://www.linuxfordevices.com/tutorials/install-cmake-on-linux)
 
-### How to use
+### How to Use
 
 Download this repository, and navigate to the /build directory in a terminal.
 
