@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Zodiac_run.dir/main.cpp.o -o Zodiac_run 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Zodiac_tst.dir/functions-test.cpp.o CMakeFiles/Zodiac_tst.dir/main.cpp.o -o Zodiac_tst  ../src/libZodiac_lib.a ../lib/libgtest.a 
