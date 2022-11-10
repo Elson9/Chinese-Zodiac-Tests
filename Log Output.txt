@@ -1,0 +1,21 @@
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from elementTest
+[ RUN      ] elementTest.test1
+[       OK ] elementTest.test1 (0 ms)
+[----------] 1 test from elementTest (0 ms total)
+
+[----------] 1 test from animalTest
+[ RUN      ] animalTest.test2
+[       OK ] animalTest.test2 (0 ms)
+[----------] 1 test from animalTest (0 ms total)
+
+[----------] 1 test from yyTest
+[ RUN      ] yyTest.test3
+[       OK ] yyTest.test3 (0 ms)
+[----------] 1 test from yyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 3 tests.
+
