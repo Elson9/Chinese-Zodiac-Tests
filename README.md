@@ -4,7 +4,7 @@ An automated testing solution validating the Chinese Zodiac code in C++.
 
 ### Requirements
 
-- [Cmake](https://www.linuxfordevices.com/tutorials/install-cmake-on-linux)
+- [CMake](https://www.linuxfordevices.com/tutorials/install-cmake-on-linux)
 
 ### How to use
 
